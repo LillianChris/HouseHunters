@@ -1,2 +1,8 @@
+## NPM ##
 node_modules
+
+## Package lock ##
 package-lock.json
+
+## Webpack ##
+dist/bundle.js
